@@ -1,4 +1,4 @@
-uiz Guilherme Vilhena Pereira
+Luiz Guilherme Vilhena Pereira
 Estudante de Desenvolvimento Web | SENAC
 
 Apaixonado por tecnologia e criação de projetos web.
